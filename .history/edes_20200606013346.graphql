@@ -1,0 +1,6 @@
+type TypeName implements IName {
+    
+        id: ID,
+        
+
+}

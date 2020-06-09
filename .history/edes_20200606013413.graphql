@@ -1,0 +1,6 @@
+type Collection {
+
+    id : ID!
+    
+
+}

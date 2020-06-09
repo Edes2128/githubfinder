@@ -1,0 +1,14 @@
+type User {
+    
+    id: ID!
+    name: String!
+    books:[Books!]
+
+}
+
+type Books{
+
+    
+
+
+}

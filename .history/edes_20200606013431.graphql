@@ -1,0 +1,7 @@
+type Collection {
+
+    id : ID!
+    title: String!
+    items: [Item]
+
+}
